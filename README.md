@@ -1,2 +1,2 @@
 # python
-Programming assignments I've done in Python
+Programming assignments I've done on Python
